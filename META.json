@@ -37,7 +37,7 @@
    "provides" : {
       "Catmandu::Serializer::messagepack" : {
          "file" : "lib/Catmandu/Serializer/messagepack.pm",
-         "version" : "0.01"
+         "version" : "0.0101"
       }
    },
    "release_status" : "stable",
@@ -53,5 +53,5 @@
          "url" : "https://github.com/LibreCat/Catmandu-Serializer-messagepack.git"
       }
    },
-   "version" : "0.01"
+   "version" : "0.0101"
 }

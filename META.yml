@@ -17,7 +17,7 @@ name: Catmandu-Serializer-messagepack
 provides:
   Catmandu::Serializer::messagepack:
     file: lib/Catmandu/Serializer/messagepack.pm
-    version: 0.01
+    version: 0.0101
 requires:
   Catmandu: 0.8006
   Data::MessagePack: 0.39
@@ -28,4 +28,4 @@ resources:
   homepage: https://github.com/LibreCat/Catmandu-Serializer-messagepack
   license: http://dev.perl.org/licenses/
   repository: https://github.com/LibreCat/Catmandu-Serializer-messagepack.git
-version: 0.01
+version: 0.0101

@@ -7,7 +7,7 @@ use Test::Exception;
 
 my $pkg;
 BEGIN {
-    $pkg = 'Catmandu::serializer::messagepack';
+    $pkg = 'Catmandu::Serializer::messagepack';
     use_ok $pkg;
 }
 require_ok $pkg;
